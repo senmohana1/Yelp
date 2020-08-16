@@ -1,11 +1,3 @@
-//
-//  AppDelegate.swift
-//  Yelp
-//
-//  Created by Senthilnathan on 8/6/20.
-//  Copyright © 2020 Senthilnathan. All rights reserved.
-//
-
 import UIKit
 
 @UIApplicationMain

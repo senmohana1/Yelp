@@ -1,0 +1,26 @@
+PODS:
+  - Cosmos (22.1.0)
+  - Hippolyte (1.2.1)
+  - SDWebImage (5.8.4):
+    - SDWebImage/Core (= 5.8.4)
+  - SDWebImage/Core (5.8.4)
+
+DEPENDENCIES:
+  - Cosmos (~> 22.1)
+  - Hippolyte
+  - SDWebImage (~> 5.0)
+
+SPEC REPOS:
+  trunk:
+    - Cosmos
+    - Hippolyte
+    - SDWebImage
+
+SPEC CHECKSUMS:
+  Cosmos: 2795b36ad4bbea1af3050d6d65576ed63875f86a
+  Hippolyte: eba3f74297b82aa04330067cf99142d0db90a9db
+  SDWebImage: cf6922231e95550934da2ada0f20f2becf2ceba9
+
+PODFILE CHECKSUM: 05783f11e067cb72ad6d49da6ec64329d5cde546
+
+COCOAPODS: 1.9.3
