@@ -1,6 +1,5 @@
 import UIKit
 
-
 struct FilterBusinessList {
     var priceSelected: String = ""
     var isOpenNowSelected: Bool = true
